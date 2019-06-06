@@ -1,0 +1,54 @@
+body{
+    background: url(fondo1.jpg);
+    color: white;
+    border: 10px solid;
+    font-family: "Helvetica";
+
+}
+h1{
+    color: white;
+    font-size: 70px;
+    background: #D3B0DF;
+    font-family: "Grand Hotel";
+    text-align: center;
+}
+u{
+    list-style: none;
+    text-align: center;
+    font-family: "Grand Hotel";
+}
+.letra{
+    font-size: 50px;
+    color: white;
+    background: #F6BBD5;
+}
+div{
+    margin: 20px 210px;
+    font-size: 20px;
+    background: #F6BBD5;
+    position: relative;
+}
+p{
+    font-family: helvetica;
+    text-align: center;
+    
+}
+.menu{
+    color:white;
+}
+a{
+    text-align: center;
+    background: #F6BBD5;
+    padding: 15px 30px;
+    margin:10px 20px 10px 20px;
+    display: block;
+    display: inline-block;
+    color: white;
+    text-decoration: none;
+    list-style: none;
+}
+a:hover{
+    background: #D3B0DF;
+    color:white;
+    border-bottom: 5px white solid;
+}
